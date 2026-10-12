@@ -1,0 +1,6 @@
+请求头：
+user-agent：Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0
+cookie：buvid3=1C710F74-3921-38E7-B31E-3A9C451D3F1A56756infoc; b_nut=1785218756; _uuid=10B7A81012-B8EF-C8106-A5109-419107935B3D257314infoc; buvid4=B68480BA-21B2-9E15-C537-4C6C6D8F40F757300-026072814-L5yYtb5wbw9TK2yJr23y2w%3D%3D; buvid_fp=6387dd2bf9ca0582185be4ffe018f671; DedeUserID=1134463346; DedeUserID__ckMd5=c40904de92c8b697; theme-tip-show=SHOWED; rpdid=|(u)YJJ|llRl0J'u~)lku)~~~; theme-avatar-tip-show=SHOWED; CURRENT_QUALITY=80; theme-switch-show=SHOWED; browser_resolution=1272-668; home_feed_column=4; bp_t_offset_1134463346=1256017233860100096; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTE5NTAxMzQsImlhdCI6MTc5MTY5MDg3NCwicGx0IjotMX0.dsK2vnpcWWShy-FGuXaaK_KfSnI8WaXTD-CS6rD8yLo; bili_ticket_expires=1791950074; SESSDATA=ce3dc412%2C1807242935%2Cda3d6%2Aa1CjCnBQ8Fll17qoJa2YR1SJkc-pKcPBD2m_1qcEyBhJycKh8SYe-3xe7Ca8ST9O9fTvISVlQ3b1lQSUZkT2lOZ3lJdVkxcTYxMHR4Mjg5MWp6aVBicHFQT3EzaXBrb2pjMnVfRjVIYjVRVzJLQWdBSkZGcUpDb3RndUNlX21feDVnY05iRlczeTlRIIEC; bili_jct=d964fb8a09857dfdf099e74e35481aa7; CURRENT_FNVAL=4048
+响应头：服务器返回的“快递单”信息
+状态码：
+200表示成功
